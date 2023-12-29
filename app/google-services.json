@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "284217718758",
+    "project_id": "cheating-app-1c2b9",
+    "storage_bucket": "cheating-app-1c2b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284217718758:android:010e1b798cb8bf480e4827",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284217718758-63ke3jo6e6npa43fbj17b5cm9ekdj9s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "fb01f7f9024c11e6cd89e30bbeeff0a361866207"
+          }
+        },
+        {
+          "client_id": "284217718758-20ghqvfjqsaqrp673rpbn1i0v7q4js33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaiBFOumgL_uV9imMD10vmFqThdMiysyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284217718758-20ghqvfjqsaqrp673rpbn1i0v7q4js33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284217718758-uhpakhbqpkiv8i992dkn6lemh3n76782.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
